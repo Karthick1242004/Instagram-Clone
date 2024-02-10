@@ -1,0 +1,21 @@
+.man{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+
+}
+.b1{
+    width: 200px;
+    height: 35px;
+    color: black;
+    font-weight: 500;
+    font-size: 15px;
+    border: none;
+    background-color: rgb(233, 233, 233);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    border-radius: 8px;
+}

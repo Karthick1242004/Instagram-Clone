@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+.mnp{
+    padding: 0px 1px;
+}
+.head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.head1 p{
+    font-size: 25px;
+    font-weight: 500;
+}
+.head2{
+    display: flex;
+    flex-direction: row;
+    gap: 23px;
+    margin-top: 6%;
+}
+.icn{
+    width: 28px;
+    height: 28px;
+    color: black;
+}
+.prof{
+    display: flex;
+    flex-direction: row;
+    gap: 55px;
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.pf{
+    width: 85px;
+    height: 85px;
+}
+.prof11{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 35px;
+    text-align: center;
+    margin-left: 7%;
+}
+.prof2{
+    display: flex;
+    flex-direction: column;
+}
+.prof2 h3{
+    font-weight: 600;
+}
+.prof2 p{
+    font-size: 12px;
+    text-align: center;
+    margin-top: -35%;
+}
+.pp{
+    padding-top: 10px;
+}
+.icn2{
+    width: 22px;
+    height: 22px;
+}
+.bio p{
+    font-size: 14px;
+    margin-top: -3%;
+}
+.spam{
+    color: rgb(3, 3, 103);
+}
+.stry{
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 6%;
+}
+.stry1{
+    font-size: 13px;
+    color: rgb(133, 133, 133);
+    margin-top: -3%;
+}
+.hig{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 0 10px;
+    width: 100%;
+    overflow-y: scroll;
+    height: 100px;
+}
+.hig1{
+    width: 75px;
+    height: 75px;
+    background-color: rgb(233, 233, 233);
+    border-radius: 50%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.hig1 p{
+    font-size: 50px;
+    font-weight: 300;
+    margin: auto;
+    padding-top: 3px;
+}
+.hig2{
+    width: 75px;
+    height: 75px;
+    background-color: rgb(251, 251, 251);
+    border-radius: 50%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border: 0.3px solid black;
+}
+.hig2 p{
+    font-size: 50px;
+    font-weight: 300;
+    margin: auto;
+    padding-top: 3px;
+}
+.feeds1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 40px;
+    margin-top: 4%;
+}
+.icn3{
+    color: rgb(83, 82, 82);
+    width: 28px;
+    height: 28px;
+}
+.fott{
+    position: fixed;
+    top: 0; 
+    z-index: 100;
+    width: 101%;
+    margin-top: 179%;
+  }

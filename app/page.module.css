@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@media screen and (max-width:430px)
+{
+  
+  .main{
+     overflow-y: scroll;
+  }
+  .nav{
+      display: flex;
+      justify-content: space-between;
+      padding: 3% 2%;
+      position: fixed;
+      background-color: white;
+      height: 60px;
+      margin-top: -2%;
+      width: 92.5%;
+  }
+  .nav1{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-top: 5%;
+  }
+  .nav h2{
+    font-family: "Grand Hotel";
+    font-size: 40px;
+    font-weight: lighter;
+    margin-top: 1.5%;
+  }
+  .icn1{
+      width: 24px;
+      height: 24px;
+      color: black;
+  }
+  .fott{
+    position: fixed;
+    top: 0; 
+    z-index: 100;
+    width: 101%;
+    margin-top: 179%;
+  }
+  .fed{
+    margin-top: 3%;
+
+  }
+}
